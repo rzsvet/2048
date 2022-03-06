@@ -1,7 +1,7 @@
 name: Test Azure Static Web Apps CI/CD
 
 on:
-  workflow_dispatch :
+  workflow_dispatch:
     branches:
       - master
   push:
